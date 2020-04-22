@@ -5,7 +5,9 @@
   <form action="POST" action="" id="schedule-form">
     <% weeks.forEach(week => { %>
       <fieldset>
-        <%= week.week %>
+        <legend>
+          Week <%= week.week %>
+        </legend>
 
         <% week.days.forEach(day => { %>
           <fieldset>
