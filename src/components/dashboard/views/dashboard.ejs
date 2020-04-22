@@ -1,0 +1,34 @@
+<%- include(`${basePartialsPath}/head`) %>
+<%- include(`./partials/header`) %>
+
+<main>
+  <article>
+
+    <header>
+      <h2>
+        Schema invoeren voor maand
+      </h2>
+    </header>
+
+    <select id="month-select" name="month-select">
+      <option value="" disabled selected hidden>Kies een maand</option>
+      <option value="januari">Januari</option>
+      <option value="februari">Februari</option>
+      <option value="maart">Maart</option>
+      <option value="april">April</option>
+      <option value="mei">Mei</option>
+      <option value="juni">Juni</option>
+      <option value="juli">Juli</option>
+      <option value="augustus">Augustus</option>
+      <option value="september">September</option>
+      <option value="oktober">Oktober</option>
+      <option value="november">November</option>
+    </select>
+
+  </article>
+  <section class="schedule-form-container">
+  </section>
+</main>
+
+<%- include(`./partials/footer`) %>
+<%- include(`${basePartialsPath}/foot`) %>}
