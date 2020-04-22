@@ -18,24 +18,31 @@ export default async function(req,res,COMPONENTPATH) {
     return month.month === req.body.month
   })
   
-  const days_in_month = getDaysInMonth(month.id)
-  const weeks = [
+  const total_days_in_month = getDaysInMonth(month.id)
+  const weeks_in_month = [
     { week: 1, days: [] },
     { week: 2, days: [] },
     { week: 3, days: [] },
     { week: 4, days: [] }
   ]
-  let index = 0 
-  while(index < days_in_month) {
-    if(index === 7 || index < 7) {
 
-    }  
-    console.log(index)
+  let index = 1 
+  while(index <= total_days_in_month) {
+    if(index <= 7) {
+      weeks_in_month[0].days.push(index)
+    } else if(index <= 14) {
+      weeks_in_month[1].days.push(index)
+    } else if(index <= 21) {
+      weeks_in_month[2].days.push(index)
+    } else {
+      weeks_in_month[3].days.push(index)
+    }
     index++
   }
 
   res.render(`${COMPONENTPATH}/dashboard/views/partials/scheduler-form`, {
-    month: req.body.month
+    month: req.body.month,
+    weeks: weeks_in_month
   })
 }
 

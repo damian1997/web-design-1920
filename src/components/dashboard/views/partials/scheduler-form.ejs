@@ -3,21 +3,17 @@
     <%= month %>
   </h2>
   <form action="POST" action="" id="schedule-form">
-    <fieldset>
-      week1
-    </fieldset>
-    <fieldset>
-      week2
-    </fieldset>
-    <fieldset>
-      week3
-    </fieldset>
-    <fieldset>
-      week4
-    </fieldset>
-    <fieldset>
-      fase
-    </fieldset>
+    <% weeks.forEach(week => { %>
+      <fieldset>
+        <%= week.week %>
+
+        <% week.days.forEach(day => { %>
+          <fieldset>
+            <%= day %>
+          </fieldset>
+        <% }) %>
+      </fieldset>
+    <% }) %>
 
     <fieldset>
       <input type="hidden" name="month" value="<%= month %>">
