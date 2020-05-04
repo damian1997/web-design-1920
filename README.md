@@ -89,3 +89,22 @@ Here you can see i kept it way shorter and this made it way more easy to navigat
 
 <img src="./github/images/prototype-1-v2.png">
 </details>
+
+### Testing with Larissa
+For the first test i asked Larissa to see if she could find her way through the website and if the structure of the information was clear.
+She said that she liked that i placed the navigation directly at the top of the page for the month's, that made it possible for her to navigate to the month she wanted
+information about very quickly. She also said that the sub navigation inside the month was very useful because she could jump to the week she wanted information about.
+
+She also liked that i placed the phases for the month at the bottom of the month section because she does not have to go through this every time she uses the roster.
+
+#### Points of improvement
+During the testing she told me that there are a lot of days where there is nothing on the schedule and that she would like have a concise sentence maybe at the beginning of
+a week section that tells her which days there is nothing on the schedule, this is because during the testing she had to wait for each day to hear if there was something on
+the schedule and you don't want to have to wait just to hear there is nothing to do for that day.
+
+She also would like if there was a way to jump directly to the planning for the current day so she would not have to navigate through the whole site to get to the information
+she needs about the current day.
+
+#### What i noticed
+I noticed that Larissa navigates really fast by tabbing through headings and by using contrl l to navigate through list items. She did not wait for the whole sentence to be
+read to her when she was going through the information.
