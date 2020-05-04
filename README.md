@@ -75,5 +75,13 @@ It is important to design a custom solution and cater to the personality of the 
 It is also important to add some "fun" into your product, try to make your user laugh by adding a funny joke. But don't over do it because your product still has to be useful.
 
 ### Prototype 1
+<details>
+<summary>Prototype 1 v1</summary>
 
-<img src="./github/images/prototype-1.png">
+<img src="./github/images/prototype-1-v1.png">
+</details>
+
+<summary>Prototype 1 v2</summary>
+
+<img src="./github/images/prototype-1-v2.png">
+</details>
