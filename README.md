@@ -5,6 +5,7 @@ Repository for web design course.
 ## Table of contents
 * [Description](#description)
 * [Week 1](#week-1)
+* [Week 2](#week-2)
 
 ## Description
 For this project i designed a solution for Larissa Klaassen.
@@ -38,3 +39,41 @@ she wants very quickly and does not have to search for it.
 
 ### Hobby's
 We also asked Larissa some personal questions, she told us that she really likes to read books using her braille reader. She also is into riding horses.
+
+## Week 2
+For the second week we made a testable prototype to see if Larissa could navigate through the information. When making my prototype i continuously tested the way of navigating
+i started structuring the information by month and making sub category's for the weeks. This way she could navigate through the headings to jump per month and switch
+to her arrow keys to get into the navigation of that month.
+
+I first structured the weeks of a month by the number of the week (e.g. week 20) but i came to the conclusion that
+structuring the weeks like that wasn't clear. If you told me we are in week 20 of year 2020 i would not know in which month that would be and what week of that month it is.
+So i started structuring it by saying week-1 of march -> week 2 of march -> week 3 of march -> last week of march.
+
+### Exclusive design principles
+While building the prototype i had to keep the 4 exclusive design principles in mind.
+These 4 principles are.
+
+* Study situation
+* Ignore conventions
+* Prioritise identity
+* Add nonsense
+
+#### Study situation
+It is important to know in what situation your product will be used, we did this during the first week where we got to meet with Larissa and asked her questions about the way she
+navigates the web. Things we got to know about studying the situation is that she uses Jaws to read information to her when she uses her computer, she also told us that she does not
+like to speak to her machine in order to get information (e.g. Command: What do i have to do this weekend), this is because she also uses her mobile phone and speech would not work
+when traveling by public transport and she would feel uncomfortable doing that.
+
+#### Ignore conventions
+Websites are mostly build using patterns people are already used to (e.g. hamburger menu for mobile navigation) but this does not work for everyone. In order to know what works
+and what does not work we will have to test our solution with Larissa.
+
+#### Prioritise identity
+It is important to design a custom solution and cater to the personality of the person that will use your product, this will make using your product much more enjoyable.
+
+#### Add nonsense
+It is also important to add some "fun" into your product, try to make your user laugh by adding a funny joke. But don't over do it because your product still has to be useful.
+
+### Prototype 1
+
+<img src="./github/images/prototype-1.png">
