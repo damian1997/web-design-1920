@@ -81,6 +81,7 @@ It is also important to add some "fun" into your product, try to make your user 
 <img src="./github/images/prototype-1-v1.png">
 </details>
 
+<details>
 <summary>Prototype 1 v2</summary>
 
 <img src="./github/images/prototype-1-v2.png">
