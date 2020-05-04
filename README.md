@@ -6,6 +6,10 @@ Repository for web design course.
 * [Description](#description)
 * [Week 1](#week-1)
 * [Week 2](#week-2)
+* [Week 3](#week-3)
+* [Week 4](#week-4)
+* [4 Principles of excluse design](#4-principles-of-exclusive-design)
+* [Conslussion](#conslussion)
 
 ## Description
 For this project i designed a solution for Larissa Klaassen.
@@ -137,6 +141,7 @@ website and implement the Add nonsense principle.
 
 ## Week 4
 In the last week i started with styling the page, Larissa can see words if they are realy blown up and if they are highly contrasting to the background. Therefore i made the background black and made the content white with a big font.
+When navigating through the page i made sure to add focus styling to the elements Larissa is currently on, i did this by adding a red border around the sentence she was focussing on.
 I also decided to add some horse svg's to the top of the page to apply the add nonsense principle. I idd not want to over do the add nonsense principle because i think this wil only distract Larissa from finding the information.
 
 <details>
@@ -144,3 +149,28 @@ I also decided to add some horse svg's to the top of the page to apply the add n
 
 <img src="./github/images/final-product.png">
 </details>
+
+## 4 Principles of exclusive design
+### Study situation
+During the first week we had the oppertunity to meet with Larissa and ask her questions about her life and how she navigates the web, she told us that she uses the screenreader JAWS when she is behind her computer.
+When she is on her mobile phone she makes use of the voice over functionality of her mobile device.
+She also uses a braille reader when reading books.
+
+She navigates through websites by tabbing to headings and using CTRL l to go through list items. She moves to individual elements with her arrow keys. When we tested our first prototype i saw that not all elements got a focus
+styling, but i did notice that links do get them so i remembered that and used it in the last week to make it clear for Larissa on what item she stood.
+
+### Ignore conventions
+In order to make navigation easy to use for Larissa i chose to not put all the navigation at the top of the page but tacticly placing navigation elements all over the page, this made sure
+that the navigation elements where always closeby and she didnt have to go to the top of the page to find her way. I also put al the sytling conventions i normaly use away and made everything as big as
+possible on the screen so Larissa could read the words, this does not look the nicest but it works the best.
+
+### Prioritise Identity
+Because we tested our prototype's with Larissa we could make a product tailored to her needs and identity, we saw during testing that Larissa was verry happy about the fact
+that she could read big words on a highly contrasting background so i made sure to write that down to implement at a later stage.
+
+### Add nonsense
+In this step i tried  to make the product more fun to use, but not distract Larissa from consumming the information. I did this by adding horses at the top of the page.
+I did this because in the first week she told us about her horseriding hobby. I chose to not add more nonsense because i think that whould be more distracting and hinder her with navigating the information.
+
+## Conslusion
+TODO
