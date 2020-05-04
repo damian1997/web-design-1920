@@ -13,4 +13,4 @@ Larissa is a professional athlete and for her training she gets a roster from he
 ### Case
 Understanding a professional athlete's roster.
 
-*** Description ***
+**Description**
