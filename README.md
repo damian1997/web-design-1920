@@ -134,3 +134,13 @@ She also liked that she could jump directly to the current day to find out what 
 #### Points of improvement
 Larissa didn't have any points of improvement about the structure of the information. Now that i have the structure down i can start adding some more personality to the
 website and implement the Add nonsense principle.
+
+## Week 4
+In the last week i started with styling the page, Larissa can see words if they are realy blown up and if they are highly contrasting to the background. Therefore i made the background black and made the content white with a big font.
+I also decided to add some horse svg's to the top of the page to apply the add nonsense principle. I idd not want to over do the add nonsense principle because i think this wil only distract Larissa from finding the information.
+
+<details>
+<summary>Finished product</summary>
+
+<img src="./github/images/final-product.png">
+</details>
