@@ -47,7 +47,7 @@ to her arrow keys to get into the navigation of that month.
 
 I first structured the weeks of a month by the number of the week (e.g. week 20) but i came to the conclusion that
 structuring the weeks like that wasn't clear. If you told me we are in week 20 of year 2020 i would not know in which month that would be and what week of that month it is.
-So i started structuring it by saying week-1 of march -> week 2 of march -> week 3 of march -> last week of march.
+So i started structuring it by saying week 1 of march -> week 2 of march -> week 3 of march -> last week of march.
 
 ### Exclusive design principles
 While building the prototype i had to keep the 4 exclusive design principles in mind.
