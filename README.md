@@ -77,12 +77,15 @@ It is also important to add some "fun" into your product, try to make your user 
 ### Prototype 1
 <details>
 <summary>Prototype 1 v1</summary>
+For this first prototype i chose to write in whole sentences, you can see this when there is nothing to do for a day (e.g. 23 Mei is planning vrij).
+When testing this solution i came to the conclusion that this took to long to read and it is not useful so i fixed that in prototype 1 v2.
 
 <img src="./github/images/prototype-1-v1.png">
 </details>
 
 <details>
 <summary>Prototype 1 v2</summary>
+Here you can see i kept it way shorter and this made it way more easy to navigate through.
 
 <img src="./github/images/prototype-1-v2.png">
 </details>
