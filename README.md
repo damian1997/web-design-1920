@@ -108,3 +108,29 @@ she needs about the current day.
 #### What i noticed
 I noticed that Larissa navigates really fast by tabbing through headings and by using contrl l to navigate through list items. She did not wait for the whole sentence to be
 read to her when she was going through the information.
+
+#### What i notices from the test's of my peers
+I also got some useful information from the test's my peers did with Larissa. She said that she can see words if they are on a contrasting background and if the font is
+realy big (e.g. black background and white font 50px). She also likes some personal touches like wishing her a good day at the beginning of the interaction with the roster.
+
+## Week 3
+For the second prototype i made sure to fix the points of improvement, i added a summary of the week at the beginning of a week section to tell her which days had something
+on the schedule so she can navigate even faster to the information she needs. And i also added a functionality to the page where she can jump to the planning for the current
+day, i placed this at the top of the page.
+
+<details>
+<summary>Prototype v2</summary>
+
+<img src="./github/images/prototype-2.png">
+</details>
+
+### Testing with Larissa
+For the second test i asked Larissa if she could find out which days of the first week of march had a planning.
+She told me that she liked how i wrote a concise sentence at the beginning of the week that told her which days had a planning and that this was way
+better to navigate through. With this addition she did not have to go through every day just to hear 3 days in a row she had nothing on the schedule.
+
+She also liked that she could jump directly to the current day to find out what is on the schedule.
+
+#### Points of improvement
+Larissa didn't have any points of improvement about the structure of the information. Now that i have the structure down i can start adding some more personality to the
+website and implement the Add nonsense principle.
